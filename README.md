@@ -1,3 +1,3 @@
-### Array Data Structure
+## Array Data Structure
 
-## Implementaion of the array datastructure and solutions to problems related to it.
+Implementaion of the array datastructure and solutions to problems related to it.
