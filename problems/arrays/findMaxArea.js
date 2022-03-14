@@ -14,4 +14,4 @@ function findMaxArea(arr) {
 // time: O(n^2)
 // space: O(1)
 
-console.log(findMaxArea([7, 1, 2, 3, 9]));
+console.log(findMaxArea2([7, 1, 2, 3, 9]));
