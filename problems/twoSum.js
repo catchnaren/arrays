@@ -10,4 +10,4 @@ function twoSum(arr, target) {
   return null;
 }
 
-console.log(twoSum([1, 4, 6, 9, 2], 11));
+console.log(twoSum([1, 5, 7, 9, 2], 11));
