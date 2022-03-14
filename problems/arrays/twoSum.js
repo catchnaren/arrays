@@ -10,4 +10,7 @@ function twoSum(arr, target) {
   return null;
 }
 
+// time: O(n^2)
+// space: O(1)
+
 console.log(twoSum([1, 5, 7, 9, 2], 11));

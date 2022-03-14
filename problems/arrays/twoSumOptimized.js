@@ -12,4 +12,7 @@ function findTwoSum(arr, target) {
   return null;
 }
 
+// time: O(n)
+// space: O(n)
+
 console.log(findTwoSum([1, 3, 7, 9, 2], 11));
