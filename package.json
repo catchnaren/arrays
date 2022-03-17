@@ -1,0 +1,22 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Implementaion of datastructures in JavaScript. Also, provided solution to some problems leveraging commonly used data structures with optimized time and space complexities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catchnaren/data-structures.git"
+  },
+  "author": "Naren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catchnaren/data-structures/issues"
+  },
+  "homepage": "https://github.com/catchnaren/data-structures#readme",
+  "dependencies": {
+    "linked-list": "^3.0.2"
+  }
+}
