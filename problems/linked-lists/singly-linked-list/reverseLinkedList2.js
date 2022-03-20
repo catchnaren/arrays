@@ -4,7 +4,7 @@
  and return the reversed list.
  */
 
-const SinglyLinkedList = require('../../data-structures/Singly_Linked_List');
+const SinglyLinkedList = require('../../../data-structures/Singly_Linked_List');
 
 const list = new SinglyLinkedList();
 list.push(1);
@@ -17,6 +17,7 @@ const reverseBetween = (head, m, n) => {
   let currentPos = 1,
     currentNode = head,
     start = head;
+  console.log({ currentPos, currentNode, start });
 
   while (currentPos < m) {
     start = currentNode;

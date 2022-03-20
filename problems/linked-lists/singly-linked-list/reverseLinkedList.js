@@ -1,6 +1,6 @@
 // To reverse the order of nodes in the linked list
 
-const SinglyLinkedList = require('../../data-structures/Singly_Linked_List');
+const SinglyLinkedList = require('../../../data-structures/Singly_Linked_List');
 
 const list = new SinglyLinkedList();
 list.push(1);
